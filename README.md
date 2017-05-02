@@ -1,7 +1,7 @@
-# NBA - BRONDATA - COL
+# NBA - BRONDATA - MEDIALIB
 
 ### Overview
-This is the source data of COL for the nba etl. Data is compressed.
+This is the source data of MEDIALIB for the nba etl. Data is compressed.
 
 ### Requirements
 You need a `sh` shell, `gzip` and `split` installed
